@@ -1,11 +1,11 @@
 # Project Table of Contents :
-Introduction of the topic and dataset
-Dataset Investigation and preliminary wrangling
-Further Data Wrangling
-Univariate Exploration and Analysis
-Bivariate Exploration and Analysis
-Multivariate Exploration and Analysis
-Conclusions and answers
+1.Introduction of the topic and dataset
+2.Dataset Investigation and preliminary wrangling
+3.Further Data Wrangling
+4.Univariate Exploration and Analysis
+5.Bivariate Exploration and Analysis
+6.Multivariate Exploration and Analysis
+7.Conclusions and answers
 
 # Data source :
 Ford GoBike System Data : https://www.fordgobike.com/system-data This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area .
