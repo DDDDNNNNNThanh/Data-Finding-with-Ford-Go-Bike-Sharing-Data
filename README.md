@@ -1,10 +1,16 @@
 # Project Table of Contents :
 1.Introduction of the topic and dataset
+
 2.Dataset Investigation and preliminary wrangling
+
 3.Further Data Wrangling
+
 4.Univariate Exploration and Analysis
+
 5.Bivariate Exploration and Analysis
+
 6.Multivariate Exploration and Analysis
+
 7.Conclusions and answers
 
 # Data source :
