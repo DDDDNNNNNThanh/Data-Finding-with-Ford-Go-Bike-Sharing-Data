@@ -1,4 +1,12 @@
-# Data-Finding-with-Ford-Go-Bike-Sharing-Data
+# Project Table of Contents :
+Introduction of the topic and dataset
+Dataset Investigation and preliminary wrangling
+Further Data Wrangling
+Univariate Exploration and Analysis
+Bivariate Exploration and Analysis
+Multivariate Exploration and Analysis
+Conclusions and answers
+
 # Data source :
 Ford GoBike System Data : https://www.fordgobike.com/system-data This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area .
 
